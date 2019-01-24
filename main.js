@@ -14,7 +14,7 @@ function main() {
 		latlng = [lat, lng];
 	}
 
-	map = L.map('map', {zoomControl: true}).setView(latlng, zoom != null ? zoom : 15);
+	map = L.map('map', {zoomControl: true}).setView(latlng, zoom != null ? zoom : 100);
 	
 	var mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
 	
