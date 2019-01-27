@@ -1,12 +1,12 @@
 {
     "entries":[
         {
-            "name" : "touhyoujo",
+            "name" : "投票所",
             "url" : "./data/geojson/touhyoujo.geojson",
             "iconUrl" : "./data/icon/icon_00.png"
         },
         {
-            "name" : "kijituzentouhyoujo",
+            "name" : "期日前投票所",
             "url" : "./data/geojson/kijituzentouhyoujo.geojson",
             "iconUrl" : "./data/icon/icon_01.png"
         }
