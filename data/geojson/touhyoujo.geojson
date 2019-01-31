@@ -1,8 +1,6 @@
 {
-"type": "FeatureCollection",
-"name": "touhyoujo",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
+   "type": "FeatureCollection",
+  "features": [
 { "type": "Feature", "properties": { "選挙区": 1, "投票区": 1, "投票所名称": "福井市役所(市民ﾎｰﾙ)", "投票所所在地": "福井市大手三丁目10-1", "投票区区域": null, "緯度": 36.063753, "経度": 136.218747 }, "geometry": { "type": "Point", "coordinates": [ 136.218747, 36.063753 ] } },
 { "type": "Feature", "properties": { "選挙区": 1, "投票区": 2, "投票所名称": "(旧)足羽保育園", "投票所所在地": "福井市足羽一丁目15-25", "投票区区域": null, "緯度": 36.060981, "経度": 136.208139 }, "geometry": { "type": "Point", "coordinates": [ 136.208139, 36.060981 ] } },
 { "type": "Feature", "properties": { "選挙区": 1, "投票区": 3, "投票所名称": "足羽公民館", "投票所所在地": "福井市足羽二丁目12-31", "投票区区域": null, "緯度": 36.059922, "経度": 136.204056 }, "geometry": { "type": "Point", "coordinates": [ 136.204056, 36.059922 ] } },
