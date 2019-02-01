@@ -8,13 +8,13 @@ function main() {
 	var lng = $.cookie('touhyoujyo_lng');
 	var zoom = $.cookie('touhyoujyo_zoom');
 	
-	var latlng = [36.064032, 136.219512];
+	var latlng = [35.737841, 139.653912];
 
 	if (lat != null && lng != null) {
 		latlng = [lat, lng];
 	}
 
-	map = L.map('map', {zoomControl: true}).setView(latlng, zoom != null ? zoom : 100);
+	map = L.map('map', {zoomControl: true}).setView(latlng, zoom != null ? zoom : 15);
 	
 	var mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
 	
