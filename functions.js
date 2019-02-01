@@ -12,7 +12,7 @@ var filteredBusStopLayers ;
 function onCreate() {
     
     L.easyButton('fa-home', function(btn, map){
-        var latlng = [35.737841, 139.65391];
+        var latlng = [36.065195, 136.221672];
         map.setView(latlng, 15);
 
         saveMap() ;
