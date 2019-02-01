@@ -259,7 +259,7 @@ function createDataContent(feature, iconUrl) {
 function createAreaLayer(data) {
     return L.geoJson(data, {
         style : function(feature) {
-            if (feature.properties.N03_003 == "練馬区") {
+            if (feature.properties.N03_001 == "福井県") {
                 return {
                     fillColor: 'cyan',
                     weight: 2,
