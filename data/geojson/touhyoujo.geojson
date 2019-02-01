@@ -5,19 +5,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.218747,36.063753 ]
-    },
-    "properties": {
-    "選挙区":1,
-    "投票区":1,
-    "投票所名称":"福井市役所(市民ﾎｰﾙ)",
-    "投票所所在地":"福井市大手三丁目10-1",
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 139.6692809,35.74057102 ]
     },
     "properties": {
