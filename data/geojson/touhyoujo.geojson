@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.218747,36.063753 ]
+       "coordinates":  [ 36.063753,136.218747 ]
     },
     "properties": {
     "選挙区":1,
@@ -19,7 +19,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.208139,36.060981 ]
+       "coordinates":  [ 36.060981,136.208139 ]
     },
     "properties": {
     "選挙区":1,
@@ -33,7 +33,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.204056,36.059922 ]
+       "coordinates":  [ 36.059922,136.204056 ]
     },
     "properties": {
     "選挙区":1,
@@ -47,7 +47,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.198051,36.060033 ]
+       "coordinates":  [ 36.060033,136.198051 ]
     },
     "properties": {
     "選挙区":1,
@@ -61,7 +61,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.216286,36.055051 ]
+       "coordinates":  [ 36.055051,136.216286 ]
     },
     "properties": {
     "選挙区":1,
@@ -75,7 +75,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.211348,36.045633 ]
+       "coordinates":  [ 36.045633,136.211348 ]
     },
     "properties": {
     "選挙区":1,
@@ -89,7 +89,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.211356,36.054182 ]
+       "coordinates":  [ 36.054182,136.211356 ]
     },
     "properties": {
     "選挙区":1,
@@ -103,7 +103,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.21438,36.051496 ]
+       "coordinates":  [ 36.051496,136.21438 ]
     },
     "properties": {
     "選挙区":1,
@@ -117,7 +117,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.220608,36.049038 ]
+       "coordinates":  [ 36.049038,136.220608 ]
     },
     "properties": {
     "選挙区":1,
@@ -131,7 +131,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.229957,36.049821 ]
+       "coordinates":  [ 36.049821,136.229957 ]
     },
     "properties": {
     "選挙区":1,
@@ -145,7 +145,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.238718,36.054443 ]
+       "coordinates":  [ 36.054443,136.238718 ]
     },
     "properties": {
     "選挙区":1,
@@ -159,7 +159,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.202193,36.026765 ]
+       "coordinates":  [ 36.026765,136.202193 ]
     },
     "properties": {
     "選挙区":1,
@@ -173,7 +173,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.200981,36.002494 ]
+       "coordinates":  [ 36.002494,136.200981 ]
     },
     "properties": {
     "選挙区":1,
@@ -187,7 +187,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.164078,36.006209 ]
+       "coordinates":  [ 36.006209,136.164078 ]
     },
     "properties": {
     "選挙区":1,
@@ -201,7 +201,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.19166,36.037236 ]
+       "coordinates":  [ 36.037236,136.19166 ]
     },
     "properties": {
     "選挙区":1,
@@ -215,7 +215,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.185342,36.059305 ]
+       "coordinates":  [ 36.059305,136.185342 ]
     },
     "properties": {
     "選挙区":1,
@@ -229,7 +229,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.176854,36.048137 ]
+       "coordinates":  [ 36.048137,136.176854 ]
     },
     "properties": {
     "選挙区":1,
@@ -243,7 +243,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.220052,36.066197 ]
+       "coordinates":  [ 36.066197,136.220052 ]
     },
     "properties": {
     "選挙区":1,
@@ -257,7 +257,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.208726,36.069254 ]
+       "coordinates":  [ 36.069254,136.208726 ]
     },
     "properties": {
     "選挙区":1,
@@ -271,7 +271,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.203643,36.067532 ]
+       "coordinates":  [ 36.067532,136.203643 ]
     },
     "properties": {
     "選挙区":1,
@@ -285,7 +285,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.198183,36.072071 ]
+       "coordinates":  [ 36.072071,136.198183 ]
     },
     "properties": {
     "選挙区":1,
@@ -299,7 +299,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.187705,36.066324 ]
+       "coordinates":  [ 36.066324,136.187705 ]
     },
     "properties": {
     "選挙区":1,
@@ -313,7 +313,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.135731,36.058313 ]
+       "coordinates":  [ 36.058313,136.135731 ]
     },
     "properties": {
     "選挙区":1,
@@ -327,7 +327,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.068368,36.062626 ]
+       "coordinates":  [ 36.062626,136.068368 ]
     },
     "properties": {
     "選挙区":1,
@@ -341,7 +341,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.031379,36.086248 ]
+       "coordinates":  [ 36.086248,136.031379 ]
     },
     "properties": {
     "選挙区":1,
@@ -355,7 +355,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.028005,36.073244 ]
+       "coordinates":  [ 36.073244,136.028005 ]
     },
     "properties": {
     "選挙区":1,
@@ -369,7 +369,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.059893,36.096981 ]
+       "coordinates":  [ 36.096981,136.059893 ]
     },
     "properties": {
     "選挙区":1,
@@ -383,7 +383,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.04693,36.03705 ]
+       "coordinates":  [ 36.03705,136.04693 ]
     },
     "properties": {
     "選挙区":1,
@@ -397,7 +397,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.059965,36.029196 ]
+       "coordinates":  [ 36.029196,136.059965 ]
     },
     "properties": {
     "選挙区":1,
@@ -411,7 +411,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.226107,36.060614 ]
+       "coordinates":  [ 36.060614,136.226107 ]
     },
     "properties": {
     "選挙区":1,
@@ -425,7 +425,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.230507,36.057134 ]
+       "coordinates":  [ 36.057134,136.230507 ]
     },
     "properties": {
     "選挙区":1,
@@ -439,7 +439,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.236004,36.060184 ]
+       "coordinates":  [ 36.060184,136.236004 ]
     },
     "properties": {
     "選挙区":1,
@@ -453,7 +453,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.232662,36.066117 ]
+       "coordinates":  [ 36.066117,136.232662 ]
     },
     "properties": {
     "選挙区":1,
@@ -467,7 +467,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.24332,36.06765 ]
+       "coordinates":  [ 36.06765,136.24332 ]
     },
     "properties": {
     "選挙区":1,
@@ -481,7 +481,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.250208,36.062129 ]
+       "coordinates":  [ 36.062129,136.250208 ]
     },
     "properties": {
     "選挙区":1,
@@ -495,7 +495,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.271624,36.051914 ]
+       "coordinates":  [ 36.051914,136.271624 ]
     },
     "properties": {
     "選挙区":1,
@@ -509,7 +509,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.220246,36.072391 ]
+       "coordinates":  [ 36.072391,136.220246 ]
     },
     "properties": {
     "選挙区":1,
@@ -523,7 +523,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.229537,36.072583 ]
+       "coordinates":  [ 36.072583,136.229537 ]
     },
     "properties": {
     "選挙区":1,
@@ -537,7 +537,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.240234,36.071567 ]
+       "coordinates":  [ 36.071567,136.240234 ]
     },
     "properties": {
     "選挙区":1,
@@ -551,7 +551,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.244273,36.077949 ]
+       "coordinates":  [ 36.077949,136.244273 ]
     },
     "properties": {
     "選挙区":1,
@@ -565,7 +565,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.269754,36.087458 ]
+       "coordinates":  [ 36.087458,136.269754 ]
     },
     "properties": {
     "選挙区":1,
@@ -579,7 +579,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.225965,36.078532 ]
+       "coordinates":  [ 36.078532,136.225965 ]
     },
     "properties": {
     "選挙区":1,
@@ -593,7 +593,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.217969,36.088644 ]
+       "coordinates":  [ 36.088644,136.217969 ]
     },
     "properties": {
     "選挙区":1,
@@ -607,7 +607,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.217397,36.076776 ]
+       "coordinates":  [ 36.076776,136.217397 ]
     },
     "properties": {
     "選挙区":1,
@@ -621,7 +621,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.211728,36.087324 ]
+       "coordinates":  [ 36.087324,136.211728 ]
     },
     "properties": {
     "選挙区":1,
@@ -635,7 +635,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.213725,36.078531 ]
+       "coordinates":  [ 36.078531,136.213725 ]
     },
     "properties": {
     "選挙区":1,
@@ -649,7 +649,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.217172,36.068008 ]
+       "coordinates":  [ 36.068008,136.217172 ]
     },
     "properties": {
     "選挙区":1,
@@ -663,7 +663,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.207193,36.074895 ]
+       "coordinates":  [ 36.074895,136.207193 ]
     },
     "properties": {
     "選挙区":1,
@@ -677,7 +677,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.241264,36.096972 ]
+       "coordinates":  [ 36.096972,136.241264 ]
     },
     "properties": {
     "選挙区":1,
@@ -691,7 +691,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.213984,36.098012 ]
+       "coordinates":  [ 36.098012,136.213984 ]
     },
     "properties": {
     "選挙区":1,
@@ -705,7 +705,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.193545,36.079781 ]
+       "coordinates":  [ 36.079781,136.193545 ]
     },
     "properties": {
     "選挙区":1,
@@ -719,7 +719,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.189937,36.100201 ]
+       "coordinates":  [ 36.100201,136.189937 ]
     },
     "properties": {
     "選挙区":1,
@@ -733,7 +733,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.20531,36.091346 ]
+       "coordinates":  [ 36.091346,136.20531 ]
     },
     "properties": {
     "選挙区":1,
@@ -747,7 +747,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.200152,36.117482 ]
+       "coordinates":  [ 36.117482,136.200152 ]
     },
     "properties": {
     "選挙区":1,
@@ -761,7 +761,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.184631,36.119904 ]
+       "coordinates":  [ 36.119904,136.184631 ]
     },
     "properties": {
     "選挙区":1,
@@ -775,7 +775,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.175246,36.107714 ]
+       "coordinates":  [ 36.107714,136.175246 ]
     },
     "properties": {
     "選挙区":1,
@@ -789,7 +789,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.14715,36.143647 ]
+       "coordinates":  [ 36.143647,136.14715 ]
     },
     "properties": {
     "選挙区":1,
@@ -803,7 +803,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.140914,36.1167 ]
+       "coordinates":  [ 36.1167,136.140914 ]
     },
     "properties": {
     "選挙区":1,
@@ -817,7 +817,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.137025,36.099233 ]
+       "coordinates":  [ 36.099233,136.137025 ]
     },
     "properties": {
     "選挙区":1,
@@ -831,7 +831,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.107282,36.14589 ]
+       "coordinates":  [ 36.14589,136.107282 ]
     },
     "properties": {
     "選挙区":1,
@@ -845,7 +845,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.12415,36.143427 ]
+       "coordinates":  [ 36.143427,136.12415 ]
     },
     "properties": {
     "選挙区":1,
@@ -859,7 +859,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.11808,36.161494 ]
+       "coordinates":  [ 36.161494,136.11808 ]
     },
     "properties": {
     "選挙区":1,
@@ -873,7 +873,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.065938,36.130885 ]
+       "coordinates":  [ 36.130885,136.065938 ]
     },
     "properties": {
     "選挙区":1,
@@ -887,7 +887,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.049235,36.110491 ]
+       "coordinates":  [ 36.110491,136.049235 ]
     },
     "properties": {
     "選挙区":1,
@@ -901,7 +901,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.107161,36.114486 ]
+       "coordinates":  [ 36.114486,136.107161 ]
     },
     "properties": {
     "選挙区":1,
@@ -915,7 +915,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.162433,36.131601 ]
+       "coordinates":  [ 36.131601,136.162433 ]
     },
     "properties": {
     "選挙区":1,
@@ -929,7 +929,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.230399,36.109773 ]
+       "coordinates":  [ 36.109773,136.230399 ]
     },
     "properties": {
     "選挙区":1,
@@ -943,7 +943,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.221966,36.10544 ]
+       "coordinates":  [ 36.10544,136.221966 ]
     },
     "properties": {
     "選挙区":1,
@@ -957,7 +957,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.23767,36.115656 ]
+       "coordinates":  [ 36.115656,136.23767 ]
     },
     "properties": {
     "選挙区":1,
@@ -971,7 +971,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.27513,36.032541 ]
+       "coordinates":  [ 36.032541,136.27513 ]
     },
     "properties": {
     "選挙区":1,
@@ -985,7 +985,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.289826,36.028187 ]
+       "coordinates":  [ 36.028187,136.289826 ]
     },
     "properties": {
     "選挙区":1,
@@ -999,7 +999,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.290473,35.99388 ]
+       "coordinates":  [ 35.99388,136.290473 ]
     },
     "properties": {
     "選挙区":1,
@@ -1013,7 +1013,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.253047,36.001634 ]
+       "coordinates":  [ 36.001634,136.253047 ]
     },
     "properties": {
     "選挙区":1,
@@ -1027,7 +1027,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.231209,36.013221 ]
+       "coordinates":  [ 36.013221,136.231209 ]
     },
     "properties": {
     "選挙区":1,
@@ -1041,7 +1041,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.244918,36.037165 ]
+       "coordinates":  [ 36.037165,136.244918 ]
     },
     "properties": {
     "選挙区":1,
@@ -1055,7 +1055,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.233056,36.026372 ]
+       "coordinates":  [ 36.026372,136.233056 ]
     },
     "properties": {
     "選挙区":1,
@@ -1069,7 +1069,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.272448,36.014274 ]
+       "coordinates":  [ 36.014274,136.272448 ]
     },
     "properties": {
     "選挙区":1,
@@ -1083,7 +1083,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.33104,36.01845 ]
+       "coordinates":  [ 36.01845,136.33104 ]
     },
     "properties": {
     "選挙区":1,
@@ -1097,7 +1097,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.406069,36.026863 ]
+       "coordinates":  [ 36.026863,136.406069 ]
     },
     "properties": {
     "選挙区":1,
@@ -1111,7 +1111,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.421911,36.028007 ]
+       "coordinates":  [ 36.028007,136.421911 ]
     },
     "properties": {
     "選挙区":1,
@@ -1125,7 +1125,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.384229,36.022353 ]
+       "coordinates":  [ 36.022353,136.384229 ]
     },
     "properties": {
     "選挙区":1,
@@ -1139,7 +1139,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.413763,36.000166 ]
+       "coordinates":  [ 36.000166,136.413763 ]
     },
     "properties": {
     "選挙区":1,
@@ -1153,7 +1153,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.417825,35.961624 ]
+       "coordinates":  [ 35.961624,136.417825 ]
     },
     "properties": {
     "選挙区":1,
@@ -1167,7 +1167,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.440864,35.946953 ]
+       "coordinates":  [ 35.946953,136.440864 ]
     },
     "properties": {
     "選挙区":1,
@@ -1181,7 +1181,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.404018,35.962312 ]
+       "coordinates":  [ 35.962312,136.404018 ]
     },
     "properties": {
     "選挙区":1,
@@ -1195,7 +1195,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.359756,35.951809 ]
+       "coordinates":  [ 35.951809,136.359756 ]
     },
     "properties": {
     "選挙区":1,
@@ -1209,7 +1209,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.359754,35.999944 ]
+       "coordinates":  [ 35.999944,136.359754 ]
     },
     "properties": {
     "選挙区":1,
@@ -1223,7 +1223,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.358638,35.987679 ]
+       "coordinates":  [ 35.987679,136.358638 ]
     },
     "properties": {
     "選挙区":1,
@@ -1237,7 +1237,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.320568,36.025753 ]
+       "coordinates":  [ 36.025753,136.320568 ]
     },
     "properties": {
     "選挙区":1,
@@ -1251,7 +1251,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.319439,36.00735 ]
+       "coordinates":  [ 36.00735,136.319439 ]
     },
     "properties": {
     "選挙区":1,
@@ -1265,7 +1265,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.347272,36.016748 ]
+       "coordinates":  [ 36.016748,136.347272 ]
     },
     "properties": {
     "選挙区":1,
@@ -1279,7 +1279,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.433944,35.996417 ]
+       "coordinates":  [ 35.996417,136.433944 ]
     },
     "properties": {
     "選挙区":1,
@@ -1293,7 +1293,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.392799,35.989068 ]
+       "coordinates":  [ 35.989068,136.392799 ]
     },
     "properties": {
     "選挙区":1,
@@ -1307,7 +1307,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.012222,36.039257 ]
+       "coordinates":  [ 36.039257,136.012222 ]
     },
     "properties": {
     "選挙区":1,
@@ -1321,7 +1321,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.018368,36.049276 ]
+       "coordinates":  [ 36.049276,136.018368 ]
     },
     "properties": {
     "選挙区":1,
@@ -1335,7 +1335,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.99595,36.015493 ]
+       "coordinates":  [ 36.015493,135.99595 ]
     },
     "properties": {
     "選挙区":1,
@@ -1349,7 +1349,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.982182,35.99545 ]
+       "coordinates":  [ 35.99545,135.982182 ]
     },
     "properties": {
     "選挙区":1,
@@ -1363,7 +1363,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.117908,36.019715 ]
+       "coordinates":  [ 36.019715,136.117908 ]
     },
     "properties": {
     "選挙区":1,
@@ -1377,7 +1377,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.10757,36.035566 ]
+       "coordinates":  [ 36.035566,136.10757 ]
     },
     "properties": {
     "選挙区":1,
@@ -1391,7 +1391,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.138361,36.036563 ]
+       "coordinates":  [ 36.036563,136.138361 ]
     },
     "properties": {
     "選挙区":1,
@@ -1405,7 +1405,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.152301,36.037182 ]
+       "coordinates":  [ 36.037182,136.152301 ]
     },
     "properties": {
     "選挙区":1,
@@ -1419,7 +1419,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.154595,36.047553 ]
+       "coordinates":  [ 36.047553,136.154595 ]
     },
     "properties": {
     "選挙区":1,
@@ -1433,7 +1433,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.145806,36.002245 ]
+       "coordinates":  [ 36.002245,136.145806 ]
     },
     "properties": {
     "選挙区":1,
@@ -1447,7 +1447,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.147255,36.022379 ]
+       "coordinates":  [ 36.022379,136.147255 ]
     },
     "properties": {
     "選挙区":1,
@@ -1461,7 +1461,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.160176,36.010441 ]
+       "coordinates":  [ 36.010441,136.160176 ]
     },
     "properties": {
     "選挙区":1,
@@ -1475,7 +1475,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.164669,36.041507 ]
+       "coordinates":  [ 36.041507,136.164669 ]
     },
     "properties": {
     "選挙区":1,
@@ -1489,7 +1489,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.211923,36.0371 ]
+       "coordinates":  [ 36.0371,136.211923 ]
     },
     "properties": {
     "選挙区":1,
@@ -1503,7 +1503,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.18615,36.044924 ]
+       "coordinates":  [ 36.044924,136.18615 ]
     },
     "properties": {
     "選挙区":1,
@@ -1517,7 +1517,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.232265,36.100588 ]
+       "coordinates":  [ 36.100588,136.232265 ]
     },
     "properties": {
     "選挙区":1,
@@ -1531,10 +1531,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.075398,35.655824 ]
+       "coordinates":  [ 35.655824,136.075398 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":110,
     "投票所名称":"敦賀北小学校",
     "投票所所在地":"敦賀市曙町11-94",
@@ -1545,10 +1545,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.076701,35.65125 ]
+       "coordinates":  [ 35.65125,136.076701 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":111,
     "投票所名称":"敦賀南小学校",
     "投票所所在地":"敦賀市清水町一丁目10-40",
@@ -1559,10 +1559,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.07023,35.644145 ]
+       "coordinates":  [ 35.644145,136.07023 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":112,
     "投票所名称":"ﾌﾟﾗｻﾞ萬象",
     "投票所所在地":"敦賀市東洋町1-1",
@@ -1573,10 +1573,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.066022,35.653838 ]
+       "coordinates":  [ 35.653838,136.066022 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":113,
     "投票所名称":"敦賀西小学校",
     "投票所所在地":"敦賀市結城町8-6",
@@ -1587,10 +1587,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.055604,35.65539 ]
+       "coordinates":  [ 35.65539,136.055604 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":114,
     "投票所名称":"松原小学校",
     "投票所所在地":"敦賀市松島町27-22",
@@ -1601,10 +1601,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.048744,35.652563 ]
+       "coordinates":  [ 35.652563,136.048744 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":115,
     "投票所名称":"敦賀市立体育館",
     "投票所所在地":"敦賀市松葉町1-2",
@@ -1615,10 +1615,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.019473,35.640258 ]
+       "coordinates":  [ 35.640258,136.019473 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":116,
     "投票所名称":"沓見小学校",
     "投票所所在地":"敦賀市沓見66-2-10",
@@ -1629,10 +1629,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.028675,35.689216 ]
+       "coordinates":  [ 35.689216,136.028675 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":117,
     "投票所名称":"常宮小学校",
     "投票所所在地":"敦賀市常宮13-25",
@@ -1643,10 +1643,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.03419,35.730249 ]
+       "coordinates":  [ 35.730249,136.03419 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":118,
     "投票所名称":"西浦小学校",
     "投票所所在地":"敦賀市色浜33-1-2",
@@ -1657,10 +1657,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.025073,35.755638 ]
+       "coordinates":  [ 35.755638,136.025073 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":119,
     "投票所名称":"立石ふれあい会館",
     "投票所所在地":"敦賀市立石58-10-2",
@@ -1671,10 +1671,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.976602,35.731387 ]
+       "coordinates":  [ 35.731387,135.976602 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":120,
     "投票所名称":"白木公民館",
     "投票所所在地":"敦賀市白木一丁目302",
@@ -1685,10 +1685,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.087541,35.685321 ]
+       "coordinates":  [ 35.685321,136.087541 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":121,
     "投票所名称":"赤崎小学校",
     "投票所所在地":"敦賀市赤崎39-8",
@@ -1699,10 +1699,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.098921,35.72098 ]
+       "coordinates":  [ 35.72098,136.098921 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":122,
     "投票所名称":"敦賀市東浦体育館",
     "投票所所在地":"敦賀市阿曽77-12",
@@ -1713,10 +1713,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.100275,35.744863 ]
+       "coordinates":  [ 35.744863,136.100275 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":123,
     "投票所名称":"東浦保育園",
     "投票所所在地":"敦賀市大比田34-41-2",
@@ -1727,10 +1727,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.090078,35.649864 ]
+       "coordinates":  [ 35.649864,136.090078 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":124,
     "投票所名称":"敦賀市東郷公民館",
     "投票所所在地":"敦賀市井川33-12",
@@ -1741,10 +1741,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.118484,35.69161 ]
+       "coordinates":  [ 35.69161,136.118484 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":125,
     "投票所名称":"旧葉原小学校",
     "投票所所在地":"敦賀市葉原99-36",
@@ -1755,10 +1755,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.070886,35.630968 ]
+       "coordinates":  [ 35.630968,136.070886 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":126,
     "投票所名称":"中郷小学校",
     "投票所所在地":"敦賀市津内38-1-2",
@@ -1769,10 +1769,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.067176,35.622219 ]
+       "coordinates":  [ 35.622219,136.067176 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":127,
     "投票所名称":"敦賀工業高等学校",
     "投票所所在地":"敦賀市山泉13-1",
@@ -1783,10 +1783,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.098286,35.602997 ]
+       "coordinates":  [ 35.602997,136.098286 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":128,
     "投票所名称":"疋田第2会館",
     "投票所所在地":"敦賀市疋田11-17",
@@ -1797,10 +1797,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.118716,35.609346 ]
+       "coordinates":  [ 35.609346,136.118716 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":129,
     "投票所名称":"曽々木集落生活改善ｾﾝﾀｰ",
     "投票所所在地":"敦賀市曽々木8-13-1",
@@ -1811,10 +1811,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.145018,35.615329 ]
+       "coordinates":  [ 35.615329,136.145018 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":130,
     "投票所名称":"杉箸集会場",
     "投票所所在地":"敦賀市杉箸81-25-1",
@@ -1825,10 +1825,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.055543,35.645222 ]
+       "coordinates":  [ 35.645222,136.055543 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":131,
     "投票所名称":"敦賀市役所",
     "投票所所在地":"敦賀市中央町二丁目1-1",
@@ -1839,10 +1839,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.050383,35.639 ]
+       "coordinates":  [ 35.639,136.050383 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":132,
     "投票所名称":"中央小学校",
     "投票所所在地":"敦賀市野神40-249",
@@ -1853,10 +1853,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.048128,35.628407 ]
+       "coordinates":  [ 35.628407,136.048128 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":133,
     "投票所名称":"粟野中学校",
     "投票所所在地":"敦賀市金山78-1-1",
@@ -1867,10 +1867,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.033727,35.624796 ]
+       "coordinates":  [ 35.624796,136.033727 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":134,
     "投票所名称":"敦賀市金山体育館",
     "投票所所在地":"敦賀市金山58-13-1",
@@ -1881,10 +1881,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.056305,35.632604 ]
+       "coordinates":  [ 35.632604,136.056305 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":135,
     "投票所名称":"敦賀市粟野子育て支援ｾﾝﾀｰ",
     "投票所所在地":"敦賀市新和町一丁目3-10",
@@ -1895,10 +1895,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.053539,35.61865 ]
+       "coordinates":  [ 35.61865,136.053539 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":136,
     "投票所名称":"粟野南小学校",
     "投票所所在地":"敦賀市公文名31-2-1",
@@ -1909,10 +1909,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.049728,35.618489 ]
+       "coordinates":  [ 35.618489,136.049728 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":137,
     "投票所名称":"敦賀市粟野公民館",
     "投票所所在地":"敦賀市御名53-19",
@@ -1923,10 +1923,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.746647,35.495593 ]
+       "coordinates":  [ 35.495593,135.746647 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":138,
     "投票所名称":"小浜市役所",
     "投票所所在地":"小浜市大手町6-3",
@@ -1937,10 +1937,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.738575,35.49409 ]
+       "coordinates":  [ 35.49409,135.738575 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":139,
     "投票所名称":"若狭ふれあいｾﾝﾀｰ",
     "投票所所在地":"小浜市小浜日吉91-3",
@@ -1951,10 +1951,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.743672,35.505506 ]
+       "coordinates":  [ 35.505506,135.743672 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":140,
     "投票所名称":"小浜市交流ﾀｰﾐﾅﾙｾﾝﾀｰ",
     "投票所所在地":"小浜市城内二丁目5-16",
@@ -1965,10 +1965,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.75328,35.513005 ]
+       "coordinates":  [ 35.513005,135.75328 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":141,
     "投票所名称":"西津公民館",
     "投票所所在地":"小浜市北塩屋22-2",
@@ -1979,10 +1979,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.764681,35.532176 ]
+       "coordinates":  [ 35.532176,135.764681 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":142,
     "投票所名称":"小浜市久須夜交流ｾﾝﾀｰ",
     "投票所所在地":"小浜市阿納尻43-10-1",
@@ -1993,10 +1993,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.722909,35.539888 ]
+       "coordinates":  [ 35.539888,135.722909 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":143,
     "投票所名称":"堅海児童ｾﾝﾀｰ",
     "投票所所在地":"小浜市堅海37-16",
@@ -2007,10 +2007,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.835629,35.536666 ]
+       "coordinates":  [ 35.536666,135.835629 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":144,
     "投票所名称":"旧田烏保育園",
     "投票所所在地":"小浜市田烏58-1-1",
@@ -2021,10 +2021,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.774419,35.500596 ]
+       "coordinates":  [ 35.500596,135.774419 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":145,
     "投票所名称":"国富保育園",
     "投票所所在地":"小浜市栗田17-12",
@@ -2035,10 +2035,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.821113,35.492922 ]
+       "coordinates":  [ 35.492922,135.821113 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":146,
     "投票所名称":"宮川公民館",
     "投票所所在地":"小浜市加茂2-17-2",
@@ -2049,10 +2049,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.796076,35.474221 ]
+       "coordinates":  [ 35.474221,135.796076 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":147,
     "投票所名称":"松永公民館",
     "投票所所在地":"小浜市上野28-7",
@@ -2063,10 +2063,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.781419,35.484525 ]
+       "coordinates":  [ 35.484525,135.781419 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":148,
     "投票所名称":"遠敷児童ｾﾝﾀｰ",
     "投票所所在地":"小浜市遠敷一丁目202",
@@ -2077,10 +2077,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.782955,35.43805 ]
+       "coordinates":  [ 35.43805,135.782955 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":149,
     "投票所名称":"旧下根来小学校",
     "投票所所在地":"小浜市下根来46-15",
@@ -2091,10 +2091,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.758676,35.485783 ]
+       "coordinates":  [ 35.485783,135.758676 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":150,
     "投票所名称":"今富公民館",
     "投票所所在地":"小浜市和久里18-18",
@@ -2105,10 +2105,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.718827,35.457669 ]
+       "coordinates":  [ 35.457669,135.718827 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":151,
     "投票所名称":"口名田保育園",
     "投票所所在地":"小浜市中井45-8",
@@ -2119,10 +2119,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.662348,35.430454 ]
+       "coordinates":  [ 35.430454,135.662348 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":152,
     "投票所名称":"中名田小学校",
     "投票所所在地":"小浜市下田10-1",
@@ -2133,10 +2133,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.688261,35.424744 ]
+       "coordinates":  [ 35.424744,135.688261 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":153,
     "投票所名称":"小浜市ふるさと文化財の森ｾﾝﾀｰ",
     "投票所所在地":"小浜市深野7-11-1",
@@ -2147,10 +2147,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.710453,35.480719 ]
+       "coordinates":  [ 35.480719,135.710453 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":154,
     "投票所名称":"東勢ふれあい会館",
     "投票所所在地":"小浜市東勢54",
@@ -2161,10 +2161,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.677044,35.481719 ]
+       "coordinates":  [ 35.481719,135.677044 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":155,
     "投票所名称":"加斗小学校",
     "投票所所在地":"小浜市飯盛59-32",
@@ -2175,7 +2175,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.485671,35.986184 ]
+       "coordinates":  [ 35.986184,136.485671 ]
     },
     "properties": {
     "選挙区":1,
@@ -2189,7 +2189,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.487577,35.979816 ]
+       "coordinates":  [ 35.979816,136.487577 ]
     },
     "properties": {
     "選挙区":1,
@@ -2203,7 +2203,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.494429,35.98354 ]
+       "coordinates":  [ 35.98354,136.494429 ]
     },
     "properties": {
     "選挙区":1,
@@ -2217,7 +2217,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.494959,35.980391 ]
+       "coordinates":  [ 35.980391,136.494959 ]
     },
     "properties": {
     "選挙区":1,
@@ -2231,7 +2231,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.500784,35.964852 ]
+       "coordinates":  [ 35.964852,136.500784 ]
     },
     "properties": {
     "選挙区":1,
@@ -2245,7 +2245,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.493904,35.97605 ]
+       "coordinates":  [ 35.97605,136.493904 ]
     },
     "properties": {
     "選挙区":1,
@@ -2259,7 +2259,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.500148,35.983743 ]
+       "coordinates":  [ 35.983743,136.500148 ]
     },
     "properties": {
     "選挙区":1,
@@ -2273,7 +2273,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.505817,35.985196 ]
+       "coordinates":  [ 35.985196,136.505817 ]
     },
     "properties": {
     "選挙区":1,
@@ -2287,7 +2287,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.497176,35.991448 ]
+       "coordinates":  [ 35.991448,136.497176 ]
     },
     "properties": {
     "選挙区":1,
@@ -2301,7 +2301,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.491354,35.992742 ]
+       "coordinates":  [ 35.992742,136.491354 ]
     },
     "properties": {
     "選挙区":1,
@@ -2315,7 +2315,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.490963,36.0049 ]
+       "coordinates":  [ 36.0049,136.490963 ]
     },
     "properties": {
     "選挙区":1,
@@ -2329,7 +2329,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.467568,35.9954 ]
+       "coordinates":  [ 35.9954,136.467568 ]
     },
     "properties": {
     "選挙区":1,
@@ -2343,7 +2343,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.491896,35.960891 ]
+       "coordinates":  [ 35.960891,136.491896 ]
     },
     "properties": {
     "選挙区":1,
@@ -2357,7 +2357,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.51225,35.935023 ]
+       "coordinates":  [ 35.935023,136.51225 ]
     },
     "properties": {
     "選挙区":1,
@@ -2371,7 +2371,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.522866,35.949069 ]
+       "coordinates":  [ 35.949069,136.522866 ]
     },
     "properties": {
     "選挙区":1,
@@ -2385,7 +2385,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.545942,35.942637 ]
+       "coordinates":  [ 35.942637,136.545942 ]
     },
     "properties": {
     "選挙区":1,
@@ -2399,7 +2399,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.509233,35.973717 ]
+       "coordinates":  [ 35.973717,136.509233 ]
     },
     "properties": {
     "選挙区":1,
@@ -2413,7 +2413,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.526254,36.010231 ]
+       "coordinates":  [ 36.010231,136.526254 ]
     },
     "properties": {
     "選挙区":1,
@@ -2427,7 +2427,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.539908,35.990908 ]
+       "coordinates":  [ 35.990908,136.539908 ]
     },
     "properties": {
     "選挙区":1,
@@ -2441,7 +2441,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.550779,35.971382 ]
+       "coordinates":  [ 35.971382,136.550779 ]
     },
     "properties": {
     "選挙区":1,
@@ -2455,7 +2455,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.561584,35.991542 ]
+       "coordinates":  [ 35.991542,136.561584 ]
     },
     "properties": {
     "選挙区":1,
@@ -2469,7 +2469,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.574065,35.984901 ]
+       "coordinates":  [ 35.984901,136.574065 ]
     },
     "properties": {
     "選挙区":1,
@@ -2483,7 +2483,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.581387,36.012002 ]
+       "coordinates":  [ 36.012002,136.581387 ]
     },
     "properties": {
     "選挙区":1,
@@ -2497,7 +2497,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.597045,35.967484 ]
+       "coordinates":  [ 35.967484,136.597045 ]
     },
     "properties": {
     "選挙区":1,
@@ -2511,7 +2511,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.662656,35.905223 ]
+       "coordinates":  [ 35.905223,136.662656 ]
     },
     "properties": {
     "選挙区":1,
@@ -2525,7 +2525,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.611527,35.884651 ]
+       "coordinates":  [ 35.884651,136.611527 ]
     },
     "properties": {
     "選挙区":1,
@@ -2539,7 +2539,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.638573,35.92052 ]
+       "coordinates":  [ 35.92052,136.638573 ]
     },
     "properties": {
     "選挙区":1,
@@ -2553,7 +2553,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.500548,36.060922 ]
+       "coordinates":  [ 36.060922,136.500548 ]
     },
     "properties": {
     "選挙区":1,
@@ -2567,7 +2567,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.501503,36.064189 ]
+       "coordinates":  [ 36.064189,136.501503 ]
     },
     "properties": {
     "選挙区":1,
@@ -2581,7 +2581,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.505431,36.061878 ]
+       "coordinates":  [ 36.061878,136.505431 ]
     },
     "properties": {
     "選挙区":1,
@@ -2595,7 +2595,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.502745,36.055156 ]
+       "coordinates":  [ 36.055156,136.502745 ]
     },
     "properties": {
     "選挙区":1,
@@ -2609,7 +2609,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.509142,36.053868 ]
+       "coordinates":  [ 36.053868,136.509142 ]
     },
     "properties": {
     "選挙区":1,
@@ -2623,7 +2623,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.510109,36.043203 ]
+       "coordinates":  [ 36.043203,136.510109 ]
     },
     "properties": {
     "選挙区":1,
@@ -2637,7 +2637,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.530968,36.034365 ]
+       "coordinates":  [ 36.034365,136.530968 ]
     },
     "properties": {
     "選挙区":1,
@@ -2651,7 +2651,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.556393,36.018104 ]
+       "coordinates":  [ 36.018104,136.556393 ]
     },
     "properties": {
     "選挙区":1,
@@ -2665,7 +2665,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.496365,36.068924 ]
+       "coordinates":  [ 36.068924,136.496365 ]
     },
     "properties": {
     "選挙区":1,
@@ -2679,7 +2679,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.528978,36.091124 ]
+       "coordinates":  [ 36.091124,136.528978 ]
     },
     "properties": {
     "選挙区":1,
@@ -2693,7 +2693,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.558198,36.105059 ]
+       "coordinates":  [ 36.105059,136.558198 ]
     },
     "properties": {
     "選挙区":1,
@@ -2707,7 +2707,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.491163,36.090296 ]
+       "coordinates":  [ 36.090296,136.491163 ]
     },
     "properties": {
     "選挙区":1,
@@ -2721,7 +2721,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.476132,36.081314 ]
+       "coordinates":  [ 36.081314,136.476132 ]
     },
     "properties": {
     "選挙区":1,
@@ -2735,7 +2735,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.470768,36.098243 ]
+       "coordinates":  [ 36.098243,136.470768 ]
     },
     "properties": {
     "選挙区":1,
@@ -2749,7 +2749,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.434536,36.085466 ]
+       "coordinates":  [ 36.085466,136.434536 ]
     },
     "properties": {
     "選挙区":1,
@@ -2763,7 +2763,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.415739,36.08556 ]
+       "coordinates":  [ 36.08556,136.415739 ]
     },
     "properties": {
     "選挙区":1,
@@ -2777,7 +2777,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.464543,36.056392 ]
+       "coordinates":  [ 36.056392,136.464543 ]
     },
     "properties": {
     "選挙区":1,
@@ -2791,7 +2791,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.495035,36.042085 ]
+       "coordinates":  [ 36.042085,136.495035 ]
     },
     "properties": {
     "選挙区":1,
@@ -2805,7 +2805,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.185957,35.942341 ]
+       "coordinates":  [ 35.942341,136.185957 ]
     },
     "properties": {
     "選挙区":1,
@@ -2819,7 +2819,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.183088,35.945368 ]
+       "coordinates":  [ 35.945368,136.183088 ]
     },
     "properties": {
     "選挙区":1,
@@ -2833,7 +2833,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.184285,35.94949 ]
+       "coordinates":  [ 35.94949,136.184285 ]
     },
     "properties": {
     "選挙区":1,
@@ -2847,7 +2847,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.181786,35.934756 ]
+       "coordinates":  [ 35.934756,136.181786 ]
     },
     "properties": {
     "選挙区":1,
@@ -2861,7 +2861,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.200669,35.942099 ]
+       "coordinates":  [ 35.942099,136.200669 ]
     },
     "properties": {
     "選挙区":1,
@@ -2875,7 +2875,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.178771,35.970595 ]
+       "coordinates":  [ 35.970595,136.178771 ]
     },
     "properties": {
     "選挙区":1,
@@ -2889,7 +2889,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.184387,35.970167 ]
+       "coordinates":  [ 35.970167,136.184387 ]
     },
     "properties": {
     "選挙区":1,
@@ -2903,7 +2903,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.186808,35.984227 ]
+       "coordinates":  [ 35.984227,136.186808 ]
     },
     "properties": {
     "選挙区":1,
@@ -2917,7 +2917,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.192244,35.977811 ]
+       "coordinates":  [ 35.977811,136.192244 ]
     },
     "properties": {
     "選挙区":1,
@@ -2931,7 +2931,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.208593,35.956287 ]
+       "coordinates":  [ 35.956287,136.208593 ]
     },
     "properties": {
     "選挙区":1,
@@ -2945,7 +2945,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.230529,35.973626 ]
+       "coordinates":  [ 35.973626,136.230529 ]
     },
     "properties": {
     "選挙区":1,
@@ -2959,7 +2959,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.173926,35.983324 ]
+       "coordinates":  [ 35.983324,136.173926 ]
     },
     "properties": {
     "選挙区":1,
@@ -2973,7 +2973,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.157154,35.963054 ]
+       "coordinates":  [ 35.963054,136.157154 ]
     },
     "properties": {
     "選挙区":1,
@@ -2987,7 +2987,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.152072,35.946092 ]
+       "coordinates":  [ 35.946092,136.152072 ]
     },
     "properties": {
     "選挙区":1,
@@ -3001,7 +3001,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.237743,35.951427 ]
+       "coordinates":  [ 35.951427,136.237743 ]
     },
     "properties": {
     "選挙区":1,
@@ -3015,7 +3015,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.279019,35.952997 ]
+       "coordinates":  [ 35.952997,136.279019 ]
     },
     "properties": {
     "選挙区":1,
@@ -3029,7 +3029,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.160972,35.979554 ]
+       "coordinates":  [ 35.979554,136.160972 ]
     },
     "properties": {
     "選挙区":1,
@@ -3043,7 +3043,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.194498,36.222359 ]
+       "coordinates":  [ 36.222359,136.194498 ]
     },
     "properties": {
     "選挙区":1,
@@ -3057,7 +3057,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.20678,36.22875 ]
+       "coordinates":  [ 36.22875,136.20678 ]
     },
     "properties": {
     "選挙区":1,
@@ -3071,7 +3071,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.216338,36.196393 ]
+       "coordinates":  [ 36.196393,136.216338 ]
     },
     "properties": {
     "選挙区":1,
@@ -3085,7 +3085,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.197237,36.2055 ]
+       "coordinates":  [ 36.2055,136.197237 ]
     },
     "properties": {
     "選挙区":1,
@@ -3099,7 +3099,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.177946,36.210304 ]
+       "coordinates":  [ 36.210304,136.177946 ]
     },
     "properties": {
     "選挙区":1,
@@ -3113,7 +3113,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.225957,36.259014 ]
+       "coordinates":  [ 36.259014,136.225957 ]
     },
     "properties": {
     "選挙区":1,
@@ -3127,7 +3127,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.201411,36.262141 ]
+       "coordinates":  [ 36.262141,136.201411 ]
     },
     "properties": {
     "選挙区":1,
@@ -3141,7 +3141,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.253204,36.287369 ]
+       "coordinates":  [ 36.287369,136.253204 ]
     },
     "properties": {
     "選挙区":1,
@@ -3155,7 +3155,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.247921,36.263616 ]
+       "coordinates":  [ 36.263616,136.247921 ]
     },
     "properties": {
     "選挙区":1,
@@ -3169,7 +3169,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.255454,36.239881 ]
+       "coordinates":  [ 36.239881,136.255454 ]
     },
     "properties": {
     "選挙区":1,
@@ -3183,7 +3183,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.278752,36.244031 ]
+       "coordinates":  [ 36.244031,136.278752 ]
     },
     "properties": {
     "選挙区":1,
@@ -3197,7 +3197,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.268741,36.19803 ]
+       "coordinates":  [ 36.19803,136.268741 ]
     },
     "properties": {
     "選挙区":1,
@@ -3211,7 +3211,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.284575,36.202771 ]
+       "coordinates":  [ 36.202771,136.284575 ]
     },
     "properties": {
     "選挙区":1,
@@ -3225,7 +3225,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.24944,36.197454 ]
+       "coordinates":  [ 36.197454,136.24944 ]
     },
     "properties": {
     "選挙区":1,
@@ -3239,7 +3239,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.238053,36.236083 ]
+       "coordinates":  [ 36.236083,136.238053 ]
     },
     "properties": {
     "選挙区":1,
@@ -3253,7 +3253,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.225667,36.21854 ]
+       "coordinates":  [ 36.21854,136.225667 ]
     },
     "properties": {
     "選挙区":1,
@@ -3267,7 +3267,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.230761,36.212544 ]
+       "coordinates":  [ 36.212544,136.230761 ]
     },
     "properties": {
     "選挙区":1,
@@ -3281,10 +3281,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.168994,35.899027 ]
+       "coordinates":  [ 35.899027,136.168994 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":235,
     "投票所名称":"恩恵幼稚園",
     "投票所所在地":"越前市住吉町3-29",
@@ -3295,10 +3295,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.17038,35.904473 ]
+       "coordinates":  [ 35.904473,136.17038 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":236,
     "投票所名称":"福祉健康ｾﾝﾀｰ",
     "投票所所在地":"越前市府中一丁目11-2",
@@ -3309,10 +3309,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.16851,35.908487 ]
+       "coordinates":  [ 35.908487,136.16851 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":237,
     "投票所名称":"武生東公民館",
     "投票所所在地":"越前市国府二丁目9-12",
@@ -3323,10 +3323,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.158434,35.908558 ]
+       "coordinates":  [ 35.908558,136.158434 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":238,
     "投票所名称":"武生第一中学校",
     "投票所所在地":"越前市平出一丁目6-1",
@@ -3337,10 +3337,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.158142,35.90257 ]
+       "coordinates":  [ 35.90257,136.158142 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":239,
     "投票所名称":"武生西小学校",
     "投票所所在地":"越前市中央二丁目2-13",
@@ -3351,10 +3351,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.160914,35.89909 ]
+       "coordinates":  [ 35.89909,136.160914 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":240,
     "投票所名称":"なかよし保育園",
     "投票所所在地":"越前市高瀬二丁目4-14",
@@ -3365,10 +3365,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.167158,35.893122 ]
+       "coordinates":  [ 35.893122,136.167158 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":241,
     "投票所名称":"南保育園",
     "投票所所在地":"越前市若竹町12-23",
@@ -3379,10 +3379,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.16473,35.895558 ]
+       "coordinates":  [ 35.895558,136.16473 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":242,
     "投票所名称":"武生南児童ｾﾝﾀｰ",
     "投票所所在地":"越前市武生柳町11-28",
@@ -3393,10 +3393,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.160378,35.887381 ]
+       "coordinates":  [ 35.887381,136.160378 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":243,
     "投票所名称":"武生第二中学校",
     "投票所所在地":"越前市妙法寺町42-15",
@@ -3407,10 +3407,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.136642,35.885736 ]
+       "coordinates":  [ 35.885736,136.136642 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":244,
     "投票所名称":"神山児童館",
     "投票所所在地":"越前市広瀬町102-41",
@@ -3421,10 +3421,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.157239,35.926103 ]
+       "coordinates":  [ 35.926103,136.157239 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":245,
     "投票所名称":"吉野小学校",
     "投票所所在地":"越前市本保町17-1",
@@ -3435,10 +3435,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.166921,35.922551 ]
+       "coordinates":  [ 35.922551,136.166921 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":246,
     "投票所名称":"家久保育園",
     "投票所所在地":"越前市家久町94-2-1",
@@ -3449,10 +3449,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.175876,35.905709 ]
+       "coordinates":  [ 35.905709,136.175876 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":247,
     "投票所名称":"武生第三中学校",
     "投票所所在地":"越前市村国二丁目3-56",
@@ -3463,10 +3463,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.184953,35.912453 ]
+       "coordinates":  [ 35.912453,136.184953 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":248,
     "投票所名称":"式部ふれあい館",
     "投票所所在地":"越前市国高一丁目13-11",
@@ -3477,10 +3477,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.189746,35.911362 ]
+       "coordinates":  [ 35.911362,136.189746 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":249,
     "投票所名称":"国高公民館",
     "投票所所在地":"越前市国高二丁目324-13",
@@ -3491,10 +3491,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.141866,35.906208 ]
+       "coordinates":  [ 35.906208,136.141866 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":250,
     "投票所名称":"大虫小学校",
     "投票所所在地":"越前市高森町14-15",
@@ -3505,10 +3505,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.086959,35.860107 ]
+       "coordinates":  [ 35.860107,136.086959 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":251,
     "投票所名称":"ｴｺﾋﾞﾚｯｼﾞ交流ｾﾝﾀｰ",
     "投票所所在地":"越前市湯谷町25-25-2",
@@ -3519,10 +3519,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.167481,35.866111 ]
+       "coordinates":  [ 35.866111,136.167481 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":252,
     "投票所名称":"王子保小学校",
     "投票所所在地":"越前市今宿町5-14",
@@ -3533,10 +3533,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.160344,35.849277 ]
+       "coordinates":  [ 35.849277,136.160344 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":253,
     "投票所名称":"大塩町ｺﾐｭﾆﾃｨｾﾝﾀｰ",
     "投票所所在地":"越前市大塩町20-1-1",
@@ -3547,10 +3547,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.211052,35.912859 ]
+       "coordinates":  [ 35.912859,136.211052 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":254,
     "投票所名称":"北新庄体育館",
     "投票所所在地":"越前市北町54-25",
@@ -3561,10 +3561,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.190611,35.890106 ]
+       "coordinates":  [ 35.890106,136.190611 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":255,
     "投票所名称":"北日野児童ｾﾝﾀｰ",
     "投票所所在地":"越前市小野谷町1-13",
@@ -3575,10 +3575,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.23317,35.890557 ]
+       "coordinates":  [ 35.890557,136.23317 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":256,
     "投票所名称":"味真野幼稚園",
     "投票所所在地":"越前市池泉町9-1",
@@ -3589,10 +3589,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.274677,35.885177 ]
+       "coordinates":  [ 35.885177,136.274677 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":257,
     "投票所名称":"中居町ふれあい会館",
     "投票所所在地":"越前市中居町19-35",
@@ -3603,10 +3603,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.052884,35.888058 ]
+       "coordinates":  [ 35.888058,136.052884 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":258,
     "投票所名称":"白山小学校",
     "投票所所在地":"越前市都辺町24-2",
@@ -3617,10 +3617,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.077611,35.912023 ]
+       "coordinates":  [ 35.912023,136.077611 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":259,
     "投票所名称":"安養寺こども園",
     "投票所所在地":"越前市安養寺町89-29-1",
@@ -3631,10 +3631,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.240393,35.914121 ]
+       "coordinates":  [ 35.914121,136.240393 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":260,
     "投票所名称":"花筐小学校",
     "投票所所在地":"越前市粟田部町41-12",
@@ -3645,10 +3645,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.24484,35.913871 ]
+       "coordinates":  [ 35.913871,136.24484 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":261,
     "投票所名称":"生涯学習ｾﾝﾀｰ今立分館",
     "投票所所在地":"越前市定友町10-2-2",
@@ -3659,10 +3659,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.278415,35.902642 ]
+       "coordinates":  [ 35.902642,136.278415 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":262,
     "投票所名称":"八石集落ｾﾝﾀｰ",
     "投票所所在地":"越前市八石町2-42",
@@ -3673,10 +3673,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.248181,35.92922 ]
+       "coordinates":  [ 35.92922,136.248181 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":263,
     "投票所名称":"今立勤労青少年ﾎｰﾑ",
     "投票所所在地":"越前市西庄境町21-7-1",
@@ -3687,10 +3687,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.265071,35.935436 ]
+       "coordinates":  [ 35.935436,136.265071 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":264,
     "投票所名称":"服間小学校",
     "投票所所在地":"越前市藤木町12-11",
@@ -3701,10 +3701,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.301126,35.935829 ]
+       "coordinates":  [ 35.935829,136.301126 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":265,
     "投票所名称":"横住開発ｾﾝﾀｰ",
     "投票所所在地":"越前市横住町40-6-2",
@@ -3715,10 +3715,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.285703,35.91314 ]
+       "coordinates":  [ 35.91314,136.285703 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":266,
     "投票所名称":"水間集落生活改善ｾﾝﾀｰ",
     "投票所所在地":"越前市水間町17-20-1",
@@ -3729,7 +3729,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.155354,36.211745 ]
+       "coordinates":  [ 36.211745,136.155354 ]
     },
     "properties": {
     "選挙区":1,
@@ -3743,7 +3743,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.148898,36.217378 ]
+       "coordinates":  [ 36.217378,136.148898 ]
     },
     "properties": {
     "選挙区":1,
@@ -3757,7 +3757,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.139241,36.22368 ]
+       "coordinates":  [ 36.22368,136.139241 ]
     },
     "properties": {
     "選挙区":1,
@@ -3771,7 +3771,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.132143,36.248532 ]
+       "coordinates":  [ 36.248532,136.132143 ]
     },
     "properties": {
     "選挙区":1,
@@ -3785,7 +3785,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.167843,36.231016 ]
+       "coordinates":  [ 36.231016,136.167843 ]
     },
     "properties": {
     "選挙区":1,
@@ -3799,7 +3799,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.145093,36.227446 ]
+       "coordinates":  [ 36.227446,136.145093 ]
     },
     "properties": {
     "選挙区":1,
@@ -3813,7 +3813,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.143161,36.209523 ]
+       "coordinates":  [ 36.209523,136.143161 ]
     },
     "properties": {
     "選挙区":1,
@@ -3827,7 +3827,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.143873,36.171955 ]
+       "coordinates":  [ 36.171955,136.143873 ]
     },
     "properties": {
     "選挙区":1,
@@ -3841,7 +3841,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.162223,36.203713 ]
+       "coordinates":  [ 36.203713,136.162223 ]
     },
     "properties": {
     "選挙区":1,
@@ -3855,7 +3855,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.307026,36.111115 ]
+       "coordinates":  [ 36.111115,136.307026 ]
     },
     "properties": {
     "選挙区":1,
@@ -3869,7 +3869,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.256721,36.123103 ]
+       "coordinates":  [ 36.123103,136.256721 ]
     },
     "properties": {
     "選挙区":1,
@@ -3883,7 +3883,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.266275,36.116813 ]
+       "coordinates":  [ 36.116813,136.266275 ]
     },
     "properties": {
     "選挙区":1,
@@ -3897,7 +3897,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.284015,36.127545 ]
+       "coordinates":  [ 36.127545,136.284015 ]
     },
     "properties": {
     "選挙区":1,
@@ -3911,7 +3911,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.267321,36.148964 ]
+       "coordinates":  [ 36.148964,136.267321 ]
     },
     "properties": {
     "選挙区":1,
@@ -3925,7 +3925,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.250531,36.147252 ]
+       "coordinates":  [ 36.147252,136.250531 ]
     },
     "properties": {
     "選挙区":1,
@@ -3939,7 +3939,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.270173,36.152358 ]
+       "coordinates":  [ 36.152358,136.270173 ]
     },
     "properties": {
     "選挙区":1,
@@ -3953,7 +3953,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.280305,36.154894 ]
+       "coordinates":  [ 36.154894,136.280305 ]
     },
     "properties": {
     "選挙区":1,
@@ -3967,7 +3967,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.331089,36.161892 ]
+       "coordinates":  [ 36.161892,136.331089 ]
     },
     "properties": {
     "選挙区":1,
@@ -3981,7 +3981,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.224594,36.123349 ]
+       "coordinates":  [ 36.123349,136.224594 ]
     },
     "properties": {
     "選挙区":1,
@@ -3995,7 +3995,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.218658,36.134147 ]
+       "coordinates":  [ 36.134147,136.218658 ]
     },
     "properties": {
     "選挙区":1,
@@ -4009,7 +4009,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.201143,36.132964 ]
+       "coordinates":  [ 36.132964,136.201143 ]
     },
     "properties": {
     "選挙区":1,
@@ -4023,7 +4023,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.189807,36.14897 ]
+       "coordinates":  [ 36.14897,136.189807 ]
     },
     "properties": {
     "選挙区":1,
@@ -4037,7 +4037,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.237886,36.12946 ]
+       "coordinates":  [ 36.12946,136.237886 ]
     },
     "properties": {
     "選挙区":1,
@@ -4051,7 +4051,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.236679,36.164939 ]
+       "coordinates":  [ 36.164939,136.236679 ]
     },
     "properties": {
     "選挙区":1,
@@ -4065,7 +4065,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.222947,36.166555 ]
+       "coordinates":  [ 36.166555,136.222947 ]
     },
     "properties": {
     "選挙区":1,
@@ -4079,7 +4079,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.218796,36.184908 ]
+       "coordinates":  [ 36.184908,136.218796 ]
     },
     "properties": {
     "選挙区":1,
@@ -4093,7 +4093,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.204068,36.168065 ]
+       "coordinates":  [ 36.168065,136.204068 ]
     },
     "properties": {
     "選挙区":1,
@@ -4107,7 +4107,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.170801,36.183537 ]
+       "coordinates":  [ 36.183537,136.170801 ]
     },
     "properties": {
     "選挙区":1,
@@ -4121,7 +4121,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.305108,36.0976 ]
+       "coordinates":  [ 36.0976,136.305108 ]
     },
     "properties": {
     "選挙区":1,
@@ -4135,7 +4135,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.301386,36.091703 ]
+       "coordinates":  [ 36.091703,136.301386 ]
     },
     "properties": {
     "選挙区":1,
@@ -4149,7 +4149,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.294612,36.09112 ]
+       "coordinates":  [ 36.09112,136.294612 ]
     },
     "properties": {
     "選挙区":1,
@@ -4163,7 +4163,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.289273,36.106784 ]
+       "coordinates":  [ 36.106784,136.289273 ]
     },
     "properties": {
     "選挙区":1,
@@ -4177,7 +4177,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.296437,36.087959 ]
+       "coordinates":  [ 36.087959,136.296437 ]
     },
     "properties": {
     "選挙区":1,
@@ -4191,7 +4191,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.296112,36.072155 ]
+       "coordinates":  [ 36.072155,136.296112 ]
     },
     "properties": {
     "選挙区":1,
@@ -4205,7 +4205,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.312137,36.099616 ]
+       "coordinates":  [ 36.099616,136.312137 ]
     },
     "properties": {
     "選挙区":1,
@@ -4219,7 +4219,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.287651,36.093117 ]
+       "coordinates":  [ 36.093117,136.287651 ]
     },
     "properties": {
     "選挙区":1,
@@ -4233,7 +4233,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.324983,36.097442 ]
+       "coordinates":  [ 36.097442,136.324983 ]
     },
     "properties": {
     "選挙区":1,
@@ -4247,7 +4247,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.333318,36.094704 ]
+       "coordinates":  [ 36.094704,136.333318 ]
     },
     "properties": {
     "選挙区":1,
@@ -4261,7 +4261,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.361492,36.085233 ]
+       "coordinates":  [ 36.085233,136.361492 ]
     },
     "properties": {
     "選挙区":1,
@@ -4275,7 +4275,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.318512,36.088143 ]
+       "coordinates":  [ 36.088143,136.318512 ]
     },
     "properties": {
     "選挙区":1,
@@ -4289,7 +4289,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.327775,36.069476 ]
+       "coordinates":  [ 36.069476,136.327775 ]
     },
     "properties": {
     "選挙区":1,
@@ -4303,7 +4303,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.352764,36.054928 ]
+       "coordinates":  [ 36.054928,136.352764 ]
     },
     "properties": {
     "選挙区":1,
@@ -4317,7 +4317,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.361708,36.095929 ]
+       "coordinates":  [ 36.095929,136.361708 ]
     },
     "properties": {
     "選挙区":1,
@@ -4331,7 +4331,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.326857,36.104763 ]
+       "coordinates":  [ 36.104763,136.326857 ]
     },
     "properties": {
     "選挙区":1,
@@ -4345,7 +4345,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.403071,36.070869 ]
+       "coordinates":  [ 36.070869,136.403071 ]
     },
     "properties": {
     "選挙区":1,
@@ -4359,7 +4359,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.397466,36.078163 ]
+       "coordinates":  [ 36.078163,136.397466 ]
     },
     "properties": {
     "選挙区":1,
@@ -4373,7 +4373,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.385283,36.08357 ]
+       "coordinates":  [ 36.08357,136.385283 ]
     },
     "properties": {
     "選挙区":1,
@@ -4387,10 +4387,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.344354,35.891433 ]
+       "coordinates":  [ 35.891433,136.344354 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":314,
     "投票所名称":"池田町開発ｾﾝﾀｰ",
     "投票所所在地":"池田町稲荷35-5",
@@ -4401,10 +4401,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.303931,35.858176 ]
+       "coordinates":  [ 35.858176,136.303931 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":315,
     "投票所名称":"角間郷体育館",
     "投票所所在地":"池田町菅生23-42",
@@ -4415,10 +4415,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.367765,35.88762 ]
+       "coordinates":  [ 35.88762,136.367765 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":316,
     "投票所名称":"池田町立公民館水海分館",
     "投票所所在地":"池田町水海62-3",
@@ -4429,10 +4429,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.35143,35.918615 ]
+       "coordinates":  [ 35.918615,136.35143 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":317,
     "投票所名称":"高齢者等活動促進広場",
     "投票所所在地":"池田町野尻15-7",
@@ -4443,10 +4443,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.359439,35.944563 ]
+       "coordinates":  [ 35.944563,136.359439 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":318,
     "投票所名称":"松ヶ谷地域ｾﾝﾀｰ",
     "投票所所在地":"池田町松ヶ谷14-10-1",
@@ -4457,10 +4457,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.184825,35.843287 ]
+       "coordinates":  [ 35.843287,136.184825 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":319,
     "投票所名称":"南条保健福祉ｾﾝﾀｰ",
     "投票所所在地":"南越前町脇本17-38-1",
@@ -4471,10 +4471,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.208272,35.8312 ]
+       "coordinates":  [ 35.8312,136.208272 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":320,
     "投票所名称":"上野生活改善ｾﾝﾀｰ",
     "投票所所在地":"南越前町上野35-1",
@@ -4485,10 +4485,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.195957,35.819477 ]
+       "coordinates":  [ 35.819477,136.195957 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":321,
     "投票所名称":"上別所集落ｾﾝﾀｰ",
     "投票所所在地":"南越前町上別所4-45-2",
@@ -4499,10 +4499,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.195073,35.833994 ]
+       "coordinates":  [ 35.833994,136.195073 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":322,
     "投票所名称":"南条地区公民館",
     "投票所所在地":"南越前町東大道32-5",
@@ -4513,10 +4513,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.21491,35.812701 ]
+       "coordinates":  [ 35.812701,136.21491 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":323,
     "投票所名称":"阿久和区民ｾﾝﾀｰ",
     "投票所所在地":"南越前町阿久和59-11",
@@ -4527,10 +4527,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.198718,35.792397 ]
+       "coordinates":  [ 35.792397,136.198718 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":324,
     "投票所名称":"湯尾小学校",
     "投票所所在地":"南越前町湯尾88-2",
@@ -4541,10 +4541,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.253492,35.794898 ]
+       "coordinates":  [ 35.794898,136.253492 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":325,
     "投票所名称":"古木生活改善ｾﾝﾀｰ",
     "投票所所在地":"南越前町古木14-4-1",
@@ -4555,10 +4555,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.282528,35.795801 ]
+       "coordinates":  [ 35.795801,136.282528 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":326,
     "投票所名称":"小倉谷林業集会ｾﾝﾀｰ",
     "投票所所在地":"南越前町小倉谷18-5",
@@ -4569,10 +4569,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.197204,35.77426 ]
+       "coordinates":  [ 35.77426,136.197204 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":327,
     "投票所名称":"今庄児童館",
     "投票所所在地":"南越前町今庄68-16-1",
@@ -4583,10 +4583,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.169476,35.75992 ]
+       "coordinates":  [ 35.75992,136.169476 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":328,
     "投票所名称":"鹿蒜公民館",
     "投票所所在地":"南越前町新道24-25-1",
@@ -4597,10 +4597,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.202448,35.749511 ]
+       "coordinates":  [ 35.749511,136.202448 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":329,
     "投票所名称":"堺公民館",
     "投票所所在地":"南越前町大門8-2-3",
@@ -4611,10 +4611,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.225655,35.730175 ]
+       "coordinates":  [ 35.730175,136.225655 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":330,
     "投票所名称":"宇津尾集落ｾﾝﾀｰ",
     "投票所所在地":"南越前町宇津尾27-8-1",
@@ -4625,10 +4625,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.099561,35.81846 ]
+       "coordinates":  [ 35.81846,136.099561 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":331,
     "投票所名称":"せせらぎ",
     "投票所所在地":"南越前町赤萩38-1",
@@ -4639,10 +4639,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.068453,35.825003 ]
+       "coordinates":  [ 35.825003,136.068453 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":332,
     "投票所名称":"河野総合事務所",
     "投票所所在地":"南越前町河野15-16-1",
@@ -4653,10 +4653,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.051972,35.838145 ]
+       "coordinates":  [ 35.838145,136.051972 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":333,
     "投票所名称":"甲楽城漁業研修ｾﾝﾀｰ",
     "投票所所在地":"南越前町甲楽城8-269",
@@ -4667,10 +4667,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.041428,35.851318 ]
+       "coordinates":  [ 35.851318,136.041428 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":334,
     "投票所名称":"糠公民館",
     "投票所所在地":"南越前町糠15-2",
@@ -4681,10 +4681,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.128531,35.973796 ]
+       "coordinates":  [ 35.973796,136.128531 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":335,
     "投票所名称":"越前町生涯学習ｾﾝﾀｰ",
     "投票所所在地":"越前町内郡13-19-3",
@@ -4695,10 +4695,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.130825,35.979762 ]
+       "coordinates":  [ 35.979762,136.130825 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":336,
     "投票所名称":"朝日中学校陽光館",
     "投票所所在地":"越前町気比庄57-57",
@@ -4709,10 +4709,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.129387,35.981262 ]
+       "coordinates":  [ 35.981262,136.129387 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":337,
     "投票所名称":"朝日小学校",
     "投票所所在地":"越前町天王5-7",
@@ -4723,10 +4723,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.12318,35.954902 ]
+       "coordinates":  [ 35.954902,136.12318 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":338,
     "投票所名称":"朝日南保育所",
     "投票所所在地":"越前町佐々生33-3-1",
@@ -4737,10 +4737,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.113306,35.962206 ]
+       "coordinates":  [ 35.962206,136.113306 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":339,
     "投票所名称":"常磐小学校",
     "投票所所在地":"越前町青野20-9",
@@ -4751,10 +4751,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.107441,35.990496 ]
+       "coordinates":  [ 35.990496,136.107441 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":340,
     "投票所名称":"朝日農村環境改善ｻﾌﾞｾﾝﾀｰ",
     "投票所所在地":"越前町野末12-61",
@@ -4765,10 +4765,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.08526,35.997253 ]
+       "coordinates":  [ 35.997253,136.08526 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":341,
     "投票所名称":"朝日西保育所",
     "投票所所在地":"越前町上糸生80-8",
@@ -4779,10 +4779,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.069573,36.00741 ]
+       "coordinates":  [ 36.00741,136.069573 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":342,
     "投票所名称":"奥糸生集会施設",
     "投票所所在地":"越前町上糸生11-3",
@@ -4793,10 +4793,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.073769,35.942425 ]
+       "coordinates":  [ 35.942425,136.073769 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":343,
     "投票所名称":"宮崎ｺﾐｭﾆﾃｨｾﾝﾀｰ",
     "投票所所在地":"越前町江波50-8-1",
@@ -4807,10 +4807,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.064181,35.927887 ]
+       "coordinates":  [ 35.927887,136.064181 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":344,
     "投票所名称":"小曽原保育所",
     "投票所所在地":"越前町小曽原34-31",
@@ -4821,10 +4821,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.112043,35.932271 ]
+       "coordinates":  [ 35.932271,136.112043 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":345,
     "投票所名称":"陶の谷保育所",
     "投票所所在地":"越前町寺13-1-1",
@@ -4835,10 +4835,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.087595,35.936964 ]
+       "coordinates":  [ 35.936964,136.087595 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":346,
     "投票所名称":"宮崎中学校",
     "投票所所在地":"越前町樫津20-20",
@@ -4849,10 +4849,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.962009,35.985817 ]
+       "coordinates":  [ 35.985817,135.962009 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":347,
     "投票所名称":"すいせん研修館",
     "投票所所在地":"越前町左右24-14-1",
@@ -4863,10 +4863,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.970084,35.970136 ]
+       "coordinates":  [ 35.970136,135.970084 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":348,
     "投票所名称":"玉川地区集会施設",
     "投票所所在地":"越前町玉川44-27-1",
@@ -4877,10 +4877,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.984786,35.952691 ]
+       "coordinates":  [ 35.952691,135.984786 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":349,
     "投票所名称":"越前ｻﾌﾞｺﾐｭﾆﾃｨｾﾝﾀｰ",
     "投票所所在地":"越前町梅浦60-2-1",
@@ -4891,10 +4891,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.986491,35.949933 ]
+       "coordinates":  [ 35.949933,135.986491 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":350,
     "投票所名称":"新保地区集会施設",
     "投票所所在地":"越前町新保12-35-1",
@@ -4905,10 +4905,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.992886,35.940296 ]
+       "coordinates":  [ 35.940296,135.992886 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":351,
     "投票所名称":"小樟地区集会施設",
     "投票所所在地":"越前町小樟43-8-26",
@@ -4919,10 +4919,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.99833,35.928323 ]
+       "coordinates":  [ 35.928323,135.99833 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":352,
     "投票所名称":"厨地区集会施設",
     "投票所所在地":"越前町厨16-17-1",
@@ -4933,10 +4933,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.997714,35.904798 ]
+       "coordinates":  [ 35.904798,135.997714 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":353,
     "投票所名称":"白浜地区集会施設",
     "投票所所在地":"越前町高佐9-1",
@@ -4947,10 +4947,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.996201,35.887417 ]
+       "coordinates":  [ 35.887417,135.996201 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":354,
     "投票所名称":"米ﾉ地区集会施設",
     "投票所所在地":"越前町米ﾉ52-49",
@@ -4961,10 +4961,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.056059,35.961069 ]
+       "coordinates":  [ 35.961069,136.056059 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":355,
     "投票所名称":"織田ｺﾐｭﾆﾃｨｾﾝﾀｰ",
     "投票所所在地":"越前町織田36-1",
@@ -4975,10 +4975,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.048733,35.941104 ]
+       "coordinates":  [ 35.941104,136.048733 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":356,
     "投票所名称":"平等婦人の家",
     "投票所所在地":"越前町平等54-1",
@@ -4989,10 +4989,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.029893,35.957229 ]
+       "coordinates":  [ 35.957229,136.029893 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":357,
     "投票所名称":"山中児童館",
     "投票所所在地":"越前町下山中6-3-1",
@@ -5003,10 +5003,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.05943,35.972875 ]
+       "coordinates":  [ 35.972875,136.05943 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":358,
     "投票所名称":"萩野生活改善ｾﾝﾀｰ",
     "投票所所在地":"越前町織田2-1",
@@ -5017,10 +5017,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.04248,35.981787 ]
+       "coordinates":  [ 35.981787,136.04248 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":359,
     "投票所名称":"笈松集落ｾﾝﾀｰ",
     "投票所所在地":"越前町笈松24-37",
@@ -5031,10 +5031,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 136.082587,35.961045 ]
+       "coordinates":  [ 35.961045,136.082587 ]
     },
     "properties": {
-    "選挙区":1,
+    "選挙区":2,
     "投票区":360,
     "投票所名称":"上戸集落ｾﾝﾀｰ",
     "投票所所在地":"越前町上戸26-29",
@@ -5045,7 +5045,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.920014,35.60284 ]
+       "coordinates":  [ 35.60284,135.920014 ]
     },
     "properties": {
     "選挙区":2,
@@ -5059,7 +5059,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.900896,35.611153 ]
+       "coordinates":  [ 35.611153,135.900896 ]
     },
     "properties": {
     "選挙区":2,
@@ -5073,7 +5073,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.946581,35.60264 ]
+       "coordinates":  [ 35.60264,135.946581 ]
     },
     "properties": {
     "選挙区":2,
@@ -5087,7 +5087,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.971681,35.565655 ]
+       "coordinates":  [ 35.565655,135.971681 ]
     },
     "properties": {
     "選挙区":2,
@@ -5101,7 +5101,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.983569,35.627734 ]
+       "coordinates":  [ 35.627734,135.983569 ]
     },
     "properties": {
     "選挙区":2,
@@ -5115,7 +5115,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.975078,35.655022 ]
+       "coordinates":  [ 35.655022,135.975078 ]
     },
     "properties": {
     "選挙区":2,
@@ -5129,7 +5129,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.973706,35.706107 ]
+       "coordinates":  [ 35.706107,135.973706 ]
     },
     "properties": {
     "選挙区":2,
@@ -5143,7 +5143,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.579472,35.4899 ]
+       "coordinates":  [ 35.4899,135.579472 ]
     },
     "properties": {
     "選挙区":2,
@@ -5157,7 +5157,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.577716,35.495772 ]
+       "coordinates":  [ 35.495772,135.577716 ]
     },
     "properties": {
     "選挙区":2,
@@ -5171,7 +5171,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.559931,35.487133 ]
+       "coordinates":  [ 35.487133,135.559931 ]
     },
     "properties": {
     "選挙区":2,
@@ -5185,7 +5185,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.546521,35.487986 ]
+       "coordinates":  [ 35.487986,135.546521 ]
     },
     "properties": {
     "選挙区":2,
@@ -5199,7 +5199,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.541455,35.486103 ]
+       "coordinates":  [ 35.486103,135.541455 ]
     },
     "properties": {
     "選挙区":2,
@@ -5213,7 +5213,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.511523,35.496822 ]
+       "coordinates":  [ 35.496822,135.511523 ]
     },
     "properties": {
     "選挙区":2,
@@ -5227,7 +5227,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.504001,35.484351 ]
+       "coordinates":  [ 35.484351,135.504001 ]
     },
     "properties": {
     "選挙区":2,
@@ -5241,7 +5241,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.483353,35.491111 ]
+       "coordinates":  [ 35.491111,135.483353 ]
     },
     "properties": {
     "選挙区":2,
@@ -5255,7 +5255,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.498344,35.512442 ]
+       "coordinates":  [ 35.512442,135.498344 ]
     },
     "properties": {
     "選挙区":2,
@@ -5269,7 +5269,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.511402,35.5364 ]
+       "coordinates":  [ 35.5364,135.511402 ]
     },
     "properties": {
     "選挙区":2,
@@ -5283,7 +5283,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.469852,35.540449 ]
+       "coordinates":  [ 35.540449,135.469852 ]
     },
     "properties": {
     "選挙区":2,
@@ -5297,7 +5297,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.46387,35.517965 ]
+       "coordinates":  [ 35.517965,135.46387 ]
     },
     "properties": {
     "選挙区":2,
@@ -5311,7 +5311,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.617221,35.48129 ]
+       "coordinates":  [ 35.48129,135.617221 ]
     },
     "properties": {
     "選挙区":2,
@@ -5325,7 +5325,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.615484,35.45835 ]
+       "coordinates":  [ 35.45835,135.615484 ]
     },
     "properties": {
     "選挙区":2,
@@ -5339,7 +5339,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.596877,35.457142 ]
+       "coordinates":  [ 35.457142,135.596877 ]
     },
     "properties": {
     "選挙区":2,
@@ -5353,7 +5353,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.608724,35.470002 ]
+       "coordinates":  [ 35.470002,135.608724 ]
     },
     "properties": {
     "選挙区":2,
@@ -5367,7 +5367,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.621209,35.492334 ]
+       "coordinates":  [ 35.492334,135.621209 ]
     },
     "properties": {
     "選挙区":2,
@@ -5381,7 +5381,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.639719,35.474508 ]
+       "coordinates":  [ 35.474508,135.639719 ]
     },
     "properties": {
     "選挙区":2,
@@ -5395,7 +5395,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.522135,35.44161 ]
+       "coordinates":  [ 35.44161,135.522135 ]
     },
     "properties": {
     "選挙区":2,
@@ -5409,7 +5409,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.558748,35.449314 ]
+       "coordinates":  [ 35.449314,135.558748 ]
     },
     "properties": {
     "選挙区":2,
@@ -5423,7 +5423,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.571756,35.451128 ]
+       "coordinates":  [ 35.451128,135.571756 ]
     },
     "properties": {
     "選挙区":2,
@@ -5437,7 +5437,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.656725,35.531182 ]
+       "coordinates":  [ 35.531182,135.656725 ]
     },
     "properties": {
     "選挙区":2,
@@ -5451,7 +5451,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.643043,35.525326 ]
+       "coordinates":  [ 35.525326,135.643043 ]
     },
     "properties": {
     "選挙区":2,
@@ -5465,7 +5465,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.635846,35.520493 ]
+       "coordinates":  [ 35.520493,135.635846 ]
     },
     "properties": {
     "選挙区":2,
@@ -5479,7 +5479,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.582031,35.392997 ]
+       "coordinates":  [ 35.392997,135.582031 ]
     },
     "properties": {
     "選挙区":2,
@@ -5493,7 +5493,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.612025,35.39998 ]
+       "coordinates":  [ 35.39998,135.612025 ]
     },
     "properties": {
     "選挙区":2,
@@ -5507,7 +5507,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.629049,35.406124 ]
+       "coordinates":  [ 35.406124,135.629049 ]
     },
     "properties": {
     "選挙区":2,
@@ -5521,7 +5521,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.644148,35.402882 ]
+       "coordinates":  [ 35.402882,135.644148 ]
     },
     "properties": {
     "選挙区":2,
@@ -5535,7 +5535,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.65145,35.407185 ]
+       "coordinates":  [ 35.407185,135.65145 ]
     },
     "properties": {
     "選挙区":2,
@@ -5549,7 +5549,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.67449,35.398981 ]
+       "coordinates":  [ 35.398981,135.67449 ]
     },
     "properties": {
     "選挙区":2,
@@ -5563,7 +5563,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.688097,35.4 ]
+       "coordinates":  [ 35.4,135.688097 ]
     },
     "properties": {
     "選挙区":2,
@@ -5577,7 +5577,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.683425,35.410343 ]
+       "coordinates":  [ 35.410343,135.683425 ]
     },
     "properties": {
     "選挙区":2,
@@ -5591,7 +5591,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.700405,35.399684 ]
+       "coordinates":  [ 35.399684,135.700405 ]
     },
     "properties": {
     "選挙区":2,
@@ -5605,7 +5605,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.900544,35.513064 ]
+       "coordinates":  [ 35.513064,135.900544 ]
     },
     "properties": {
     "選挙区":2,
@@ -5619,7 +5619,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.907784,35.5356 ]
+       "coordinates":  [ 35.5356,135.907784 ]
     },
     "properties": {
     "選挙区":2,
@@ -5633,7 +5633,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.905526,35.550805 ]
+       "coordinates":  [ 35.550805,135.905526 ]
     },
     "properties": {
     "選挙区":2,
@@ -5647,7 +5647,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.908573,35.584304 ]
+       "coordinates":  [ 35.584304,135.908573 ]
     },
     "properties": {
     "選挙区":2,
@@ -5661,7 +5661,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.868621,35.559256 ]
+       "coordinates":  [ 35.559256,135.868621 ]
     },
     "properties": {
     "選挙区":2,
@@ -5675,7 +5675,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.83961,35.616402 ]
+       "coordinates":  [ 35.616402,135.83961 ]
     },
     "properties": {
     "選挙区":2,
@@ -5689,7 +5689,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.867129,35.508577 ]
+       "coordinates":  [ 35.508577,135.867129 ]
     },
     "properties": {
     "選挙区":2,
@@ -5703,7 +5703,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.875071,35.462005 ]
+       "coordinates":  [ 35.462005,135.875071 ]
     },
     "properties": {
     "選挙区":2,
@@ -5717,7 +5717,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.899991,35.445932 ]
+       "coordinates":  [ 35.445932,135.899991 ]
     },
     "properties": {
     "選挙区":2,
@@ -5731,7 +5731,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.857186,35.461879 ]
+       "coordinates":  [ 35.461879,135.857186 ]
     },
     "properties": {
     "選挙区":2,
@@ -5745,7 +5745,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.829513,35.476135 ]
+       "coordinates":  [ 35.476135,135.829513 ]
     },
     "properties": {
     "選挙区":2,
